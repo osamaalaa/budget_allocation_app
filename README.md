@@ -22,7 +22,7 @@ Company's Budget Allocation is a frontend application built with React, Vite, an
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/osamaalaa/budget_allocation_application.git
+    git clone https://github.com/osamahkenawy/budget_allocation_application.git
     ```
 
 2. Navigate to the project directory:
